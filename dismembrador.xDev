@@ -1,0 +1,37 @@
+<!--
+################################################
+# xDevStudio Project - xdev@kssoftware.com.br  #
+# Created @ 03/01/2016 15:07:49                #
+#                                              #
+### Standard xDev Config - Layout v1.5 #########
+-->
+<project>
+   <option compiler="618290">
+   <option outputname="dismembrador">
+   <option targettype="EXE">
+   <option outputpath="">
+   <option root="($)">
+   <option runpath="">
+   <option runparams="">
+   <option pathch="">
+   <option pathlib="">
+   <option pathobj="">
+   <option pathtooutput="obj">
+   <option defines="">
+   <option documentroot="">
+   <option makeincfile="Não">
+   <option taskprepare="">
+   <option taskfinalize="">
+
+   <compilerparam name="FiveWin32.xCompiler">
+      <option presetsname="221515,618290">
+   </compilerparam>
+
+   <unit filename="prg\dismembrador.prg" compile="Sim">
+   <unit filename="D:\Programa\xharbour\lib\pcrepos.lib" compile="Sim">
+   <unit filename="D:\Programa\xharbour\lib\ct.lib" compile="Sim">
+   <unit filename="D:\Programa\bcc\Lib\PSDK\psapi.lib" compile="Sim">
+   <unit filename="D:\Programa\xharbour\lib\png.lib" compile="Sim">
+   <unit filename="D:\Programa\xharbour\lib\hbzip.lib" compile="Sim">
+   <unit filename="D:\Programa\xharbour\lib\zlib.lib" compile="Sim">
+</project>
