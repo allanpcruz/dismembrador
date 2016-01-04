@@ -1,0 +1,92 @@
+Application
+===========
+   Path and name: D:\dismembrador\dismembrador.EXE (32 bits)
+   Size: 2,213,376 bytes
+   Compiler version: xHarbour 1.2.3 Intl. (SimpLex) (Build 20130117)
+   FiveWin  Version: FWHX 13.03
+   Windows version: 6.2, Build 9200 
+
+   Time from start: 0 hours 0 mins 0 secs 
+   Error occurred at: 01/04/16, 12:57:12
+   Error description: Error BASE/1003  Variable does not exist: OGR3
+
+Stack Calls
+===========
+   Called from: D:\dismembrador\prg\dismembrador.prg => DISMEMBRADOR( 30 )
+
+System
+======
+   CPU type: Intel(R) Celeron(R) CPU  N2940  @ 1.83GHz 1833 Mhz
+   Hardware memory: 3980 megs
+
+   Free System resources: 90 %
+        GDI    resources: 90 %
+        User   resources: 90 %
+
+   Windows total applications running: 21
+      1 , C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+      2 , C:\Program Files\Realtek\Audio\HDA\RAVCpl64.exe
+      3 , C:\Users\Allan\AppData\Local\Microsoft\OneDrive\OneDrive.exe
+      4 , C:\Windows\System32\RuntimeBroker.exe
+      5 , C:\Windows\System32\SettingSyncHost.exe
+      6 , C:\Windows\System32\rundll32.exe
+      7 , C:\Windows\SystemApps\Microsoft.Windows.Cortana_cw5n1h2txyewy\SearchUI.exe
+      8 , C:\Windows\explorer.exe
+      9 164 - 198, C:\Program Files (x86)\xDevStudio\xDevStudio.exe
+     10 Configurações, C:\Windows\ImmersiveControlPanel\SystemSettings.exe
+     11 Configurações, C:\Windows\System32\ApplicationFrameHost.exe
+     12 DWM Notification Window, 
+     13 Desbravadores, D:\dismembrador\dismembrador.EXE
+     14 Fotos, C:\Program Files\WindowsApps\Microsoft.Windows.Photos_15.1208.10480.0_x64__8wekyb3d8bbwe\Microsoft.Photos.exe
+     15 GDI+ Window, C:\Windows\splwow64.exe
+     16 GitHub, C:\Users\Allan\AppData\Local\Apps\2.0\YD9NNDBY.8WB\LWOBKRHO.8DX\gith..tion_317444273a93ac29_0003.0000_328216539257acd4\GitHub.exe
+     17 HotKey Listener, C:\Windows\System32\igfxHK.exe
+     18 Task Host Window, C:\Windows\System32\taskhostw.exe
+     19 Tecle Enter para abrir o menu do Dropbox, C:\Users\Allan\AppData\Roaming\Dropbox\bin\Dropbox.exe
+     20 The Event Manager - Status, C:\Windows\System32\igfxEM.exe
+     21 igfxtrayWindow, C:\Windows\System32\igfxTray.exe
+
+Variables in use
+================
+   Procedure     Type   Value
+   ==========================
+   DISMEMBRADOR
+     Local   1:    U    
+     Local   2:    U    
+     Local   3:    U    
+     Local   4:    U    
+
+Linked RDDs
+===========
+   DBF
+   DBFFPT
+   DBFBLOB
+   DBFNTX
+
+DataBases in use
+================
+
+Classes in use:
+===============
+     1 ERROR
+     2 HASHENTRY
+     3 HBCLASS
+     4 HBOBJECT
+     5 TWINDOW
+     6 TBRUSH
+     7 TFONT
+     8 TCONTROL
+     9 TRIBBONBAR
+    10 TRPANEL
+    11 TRBGROUP
+    12 TRBTN
+    13 TREG32
+
+Memory Analysis
+===============
+      173 Static variables
+
+   Dynamic memory consume:
+      Actual  Value:          0 bytes
+      Highest Value:          0 bytes
+

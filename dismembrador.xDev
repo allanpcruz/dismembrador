@@ -1,7 +1,7 @@
 <!--
 ################################################
 # xDevStudio Project - xdev@kssoftware.com.br  #
-# Created @ 03/01/2016 15:07:49                #
+# Created @ 04/01/2016 10:16:42                #
 #                                              #
 ### Standard xDev Config - Layout v1.5 #########
 -->
@@ -13,7 +13,7 @@
    <option root="($)">
    <option runpath="">
    <option runparams="">
-   <option pathch="">
+   <option pathch="d:\dismembrador\include">
    <option pathlib="">
    <option pathobj="">
    <option pathtooutput="obj">
@@ -34,4 +34,7 @@
    <unit filename="D:\Programa\xharbour\lib\png.lib" compile="Sim">
    <unit filename="D:\Programa\xharbour\lib\hbzip.lib" compile="Sim">
    <unit filename="D:\Programa\xharbour\lib\zlib.lib" compile="Sim">
+   <unit filename="prg\funcoes.prg" compile="Sim">
+   <unit filename="include\dismembrador.ch" compile="Sim">
+   <unit filename="WindowsXP.Manifest" compile="Sim">
 </project>

@@ -1,9 +1,10 @@
--I"D:\Programa\xharbour\include;D:\Programa\bcc\include;;" +
+-I"D:\Programa\xharbour\include;D:\Programa\bcc\include;d:\dismembrador\include;" +
 -L"D:\Programa\xharbour\lib;D:\Programa\bcc\lib;D:\Programa\bcc\lib\psdk;D:\Programa\fwh\lib;;;;;" +
 -aa +
 -Gn -Tpe -s +
 c0w32.obj +    
-"D:\dismembrador\obj\dismembrador.obj", + 
+"D:\dismembrador\obj\dismembrador.obj"  + 
+"D:\dismembrador\obj\funcoes.obj", + 
 "D:\dismembrador\dismembrador.EXE", +   
 "D:\dismembrador\dismembrador.map", +   
 FiveHx.lib FiveHC.lib +
